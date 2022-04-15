@@ -12,7 +12,7 @@
 
 #####Repository contains the following:
 
-1. R markdown script and html output with all code and analyses included in manuscript (CCFRPMicroblockMS.RMD)
+1. R markdown script and html output with all code and analyses included in manuscript (CCFRPMicroblockMS.Rmd)
 2. Data
    - Biomass Per Unit Effort for all sites and years(BPUE.per.IDcell_CC2020_OldLobos.csv)
    - Fishing effort data at microblock scale for CCFRP site (ccfrpmicrblocks.csv)
