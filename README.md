@@ -14,7 +14,7 @@
 
 1. R markdown script and html output with all code and analyses included in manuscript (CCFRPMicroblockMS.RMD)
 2. Data
-   -Biomass Per Unit Effort for all sites and years(BPUE.per.IDcell_CC2020_OldLobos.csv)
-   -Fishing effort data at microblock scale for CCFRP site (ccfrpmicrblocks.csv)
-   -MPA site characteristics (mpa-data-2.csv)
-   -Environmental data for each CCFRP site along the central coast (sumenviroCC.csv)
+   - Biomass Per Unit Effort for all sites and years(BPUE.per.IDcell_CC2020_OldLobos.csv)
+   - Fishing effort data at microblock scale for CCFRP site (ccfrpmicrblocks.csv)
+   - MPA site characteristics (mpa-data-2.csv)
+   - Environmental data for each CCFRP site along the central coast (sumenviroCC.csv)
