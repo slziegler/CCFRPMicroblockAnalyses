@@ -1,8 +1,8 @@
-## CCFRPMicroblockAnalyses
+# CCFRPMicroblockAnalyses
 
-# GitHub repository containing data and code accompanying the CCFRP Microblock manuscript (Ziegler et al. In Press)
+## GitHub repository containing data and code accompanying the CCFRP Microblock manuscript (Ziegler et al. In Press)
 
-## Title: External fishing effort regulates positive effects of no-take marine protected areas
+# Title: External fishing effort regulates positive effects of no-take marine protected areas
 
 Authors: Shelby L. Ziegler, Rachel O. Brooks, Scott L. Hamilton, Benjamin I. Ruttenberg, Jennifer A. Chiu, Ryan T. Fields, Grant T. Waltz, Chenchen Shen, Dean E. Wendt & Richard M. Starr
 
