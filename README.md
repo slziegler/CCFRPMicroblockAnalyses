@@ -10,7 +10,7 @@
 
 **Citation:** Ziegler, S. L., R. O. Brooks, S. L. Hamilton, B. I. Ruttenberg, J. A. Chiu, R.T. Fields, G T. Waltz, C. Shen, D. E. Wendt and R. M. Starr. (In Press). External fishing effort regulates the positive effects of no-take marine protected areas. Biological Conservation.
 
-** Repository contains the following:**
+#####Repository contains the following:
 
 1. R markdown script and html output with all code and analyses included in manuscript (CCFRPMicroblockMS.RMD)
 2. Data
