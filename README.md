@@ -1,5 +1,5 @@
 # CCFRPMicroblockAnalyses
-<img src="https://github.com/slziegler/CCFRPMicroblockAnalyses/blob/main/Figures/CCFRP_Microblock_GraphicalAbstract.pdf" width = "700" />
+<img src="https://github.com/slziegler/CCFRPMicroblockAnalyses/blob/main/Figures/CCFRP_Microblock_GraphicalAbstract.png" width = "700" />
 
 ##### GitHub repository containing data and code accompanying the CCFRP Microblock manuscript (Ziegler et al. In Press)
 
