@@ -19,3 +19,17 @@
    - Fishing effort data at microblock scale for CCFRP site (ccfrpmicrblocks.csv)
    - MPA site characteristics (mpa-data-2.csv)
    - Environmental data for each CCFRP site along the central coast (sumenviroCC.csv)
+3. Figures
+   - CCFRP_Microblock_Fig1.pdf
+   - CCFRP_Microblock_Fig2.pdf
+   - CCFRP_Microblock_Fig3.pdf
+   - CCFRP_Microblock_Fig4.pdf
+   - CCFRP_Microblock_GraphicalAbstract.png
+   - CCFRP_Microblock_Supplemental_FigA1.png
+   - CCFRP_Microblock_Supplemental_FigA2.pdf
+   - CCFRP_Microblock_Supplemental_FigA3.pdf
+   - CCFRP_Microblock_Supplemental_FigA4.pdf
+   - CCFRP_Microblock_Supplemental_FigA5.pdf
+4. Tables 
+   - CCFRP_Microblock_Table1_ModelSelection.png
+   - CCFRP_Microblock_Table2_ModelOutput.png
